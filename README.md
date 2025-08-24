@@ -40,11 +40,10 @@ Bunnygram is a **Nonogram-inspired puzzle game** with exciting extra features to
 
 ##  Screenshots  
 
-<img src="main-menu-1.png" alt="Main Menu" width="300"/>
-<img src="main-menu-2.png" alt="Main Menu" width="300"/>
-<img src="main-menu-3.png" alt="Main Menu" width="300"/>
-
-![Entry](level-entry.png)
-![Gameplay](gameplay-1.png)
-![Gameplay](gameplay-2.png)
-![Completed](level-completed.png)
+<img src="main-menu-1.png" alt="Main Menu" width="400"/>
+<img src="main-menu-2.png" alt="Main Menu" width="400"/>
+<img src="main-menu-3.png" alt="Main Menu" width="400"/>
+<img src="level-entry.png" alt="Level Entry" width="400"/>
+<img src="gameplay-1.png" alt="Gameplay" width="400"/>
+<img src="gameplay-2.png" alt="Gameplay" width="400"/>
+<img src="level-completed.png" alt="Level Complted" width="400"/>
