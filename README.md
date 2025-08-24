@@ -1,22 +1,40 @@
-Play Store Link: https://play.google.com/store/apps/details?id=com.LibraInterns.Bunnygram
+# Bunnygram 🐰🧩  
 
-This a Nonogram-like puzzle game with extra features. \
-There are 3 different powerups to use in-game. Each powerup has its unique ability to open up cells on the grid. \
-You can buy these powerups with diamonds you earn at each successful level. \
-\
-This game is developed in 1 month time period. \
-It is developed during my internship at the Libra Softworks.
+[Bunnygram on Google Play](https://play.google.com/store/apps/details?id=com.LibraInterns.Bunnygram)  
 
-                          CREDITS
-                          
-DEVELOPERS: \
-Emre Sezer \
-Atakan Özkan \
-Taha Tüfekçi \
-\
-ARTISTS: \
-Dilara Toplu \
-Hande Hatice Yılmaz  
+Bunnygram is a **Nonogram-inspired puzzle game** with exciting extra features to enhance gameplay. Developed in just **one month** during my internship at **Libra Softworks**, the project combines classic puzzle mechanics with modern mobile game design elements.  
+
+---
+
+##  Gameplay  
+
+- Solve Nonogram-style puzzles by filling in the correct cells on the grid.  
+- Use **3 unique power-ups**, each with its own ability to reveal cells:  
+  - **Power-up 1**: Reveal a random cell.  
+  - **Power-up 2**: Clear a row or column.  
+  - **Power-up 3**: Uncover a region of cells.  
+- Earn **diamonds** by completing levels, which can be spent on power-ups to help solve tougher puzzles.  
+
+---
+
+##  Development  
+
+- **Development Time**: 1 month  
+- **Studio**: Built during internship at **Libra Softworks**  
+- **Engine**: Unity  
+
+---
+
+##  Credits  
+
+**Software Developers**  
+- Emre Sezer  
+- Atakan Özkan  
+- Taha Tüfekçi  
+
+**Artists**  
+- Dilara Toplu  
+- Hande Hatice Yılmaz  
 
 ![Menu](main-menu-1.png)
 ![Menu](main-menu-2.png)
