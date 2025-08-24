@@ -36,6 +36,8 @@ Bunnygram is a **Nonogram-inspired puzzle game** with exciting extra features to
 - Dilara Toplu  
 - Hande Hatice Yılmaz  
 
+##  Screenshots  
+
 ![Menu](main-menu-1.png)
 ![Menu](main-menu-2.png)
 ![Menu](main-menu-3.png)
